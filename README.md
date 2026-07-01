@@ -1,6 +1,6 @@
-## Hi there 👋
 
-# Hi 👋, I'm Purva Jadhav
+
+# Hey 👋, I'm Purva 
 
 ### AI & Analytics Student • AI/ML Enthusiast • Generative AI Developer
 
