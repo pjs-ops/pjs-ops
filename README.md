@@ -1,96 +1,121 @@
+# Hey, I'm Purva Jadhav
 
+### `AI & Analytics Student` • `AI/ML Enthusiast` • `Generative AI Developer`
 
-# Hey 👋, I'm Purva 
-
-### AI & Analytics Student • AI/ML Enthusiast • Generative AI Developer
-
-![](https://komarev.com/ghpvc/?username=pjs-ops&color=blue)
-
-Passionate about building intelligent applications, Large Language Model solutions, and data-driven systems that solve real-world problems.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Exploring+Generative+AI+%F0%9F%A7%A0;Turning+Data+into+Insights+%F0%9F%93%8A;Learning+Something+New+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-🎓 B.Tech Artificial Intelligence & Analytics Student at MIT ADT University
+I'm a **B.Tech Artificial Intelligence & Analytics student at MIT ADT University**, passionate about building intelligent applications and exploring the intersection of **AI, data, and software development**.
 
-💡 Interested in:
+I enjoy taking an idea from a simple concept to a working application — whether that's an ML model, an analytics dashboard, an API, or an AI-powered application.
 
-- Artificial Intelligence & Machine Learning
-- Generative AI & Large Language Models
-- Natural Language Processing
-- Deep Learning
-- Data Analytics & Visualization
-- Backend Development & APIs
+```python
+class Purva:
 
-🌱 Currently Building:
+    role = "AI & Analytics Student"
 
-- LLM Applications
-- Neural Networks from Scratch
-- AI-Powered Web Applications
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Generative AI",
+        "Large Language Models",
+        "Natural Language Processing",
+        "Deep Learning",
+        "Data Analytics",
+        "Backend Development"
+    ]
+
+    currently_learning = [
+        "LLM Applications",
+        "RAG",
+        "Deep Learning",
+        "AI Engineering",
+        "Data Analytics"
+    ]
+
+    motto = "Learn. Build. Improve. 🚀"
+```
 
 ---
 
-## 🛠 Tech Stack
+## ⚡ What I'm Into
+
+🤖 **Artificial Intelligence**
+Building and experimenting with intelligent systems.
+
+🧠 **Generative AI**
+Exploring LLMs, RAG, prompt engineering and AI applications.
+
+📊 **Data Analytics**
+Finding patterns in data and turning them into meaningful insights.
+
+🔬 **Machine Learning**
+Experimenting with models, neural networks and real-world datasets.
+
+⚙️ **Backend Development**
+Building APIs, services and database-driven applications.
+
+---
+
+# 🛠️ Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript" />
+</p>
 
-### AI / Machine Learning
+`SQL` • `R`
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface" />
+</p>
+
+`Scikit-Learn` • `Pandas` • `NumPy`
 
 ### Data & Analytics
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+`Power BI` • `Tableau` • `Pandas` • `NumPy`
 
 ### Backend & Databases
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql" />
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,jupyter,vscode" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Things I Build
 
-![Purva's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjs-ops&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pjs-ops&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pjs-ops&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-
-📧 Email: **jadhavpurva921@gmail.com**
-
-💼 LinkedIn: **https://linkedin.com/in/purvajadhav**
-
-🌐 GitHub: **https://github.com/pjs-ops**
+```text
+AI Applications       → 🤖
+Machine Learning      → 🧠
+LLM Applications      → 💬
+Data Analytics        → 📊
+Interactive Dashboards→ 📈
+REST APIs             → ⚙️
+Deep Learning Models  → 🔬
+```
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 📚 Currently Exploring
+
+* 🧠 Large Language Models
+* 🔎 Retrieval-Augmented Generation
+* 🗣️ Natural Language Processing
+* 🧬 Deep Learning
+* 📊 Advance
