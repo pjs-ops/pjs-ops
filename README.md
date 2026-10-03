@@ -1,4 +1,4 @@
-# Hey, I'm Purva Jadhav
+# 👋 Hey, I'm Purva Jadhav
 
 ### `AI & Analytics Student` • `AI/ML Enthusiast` • `Generative AI Developer`
 
@@ -118,4 +118,67 @@ Deep Learning Models  → 🔬
 * 🔎 Retrieval-Augmented Generation
 * 🗣️ Natural Language Processing
 * 🧬 Deep Learning
-* 📊 Advance
+* 📊 Advanced Data Analytics
+* ⚙️ Backend & API Development
+* 🤖 AI-powered Applications
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pjs-ops&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjs-ops&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pjs-ops&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🌱 My Developer Journey
+
+```text
+AI & Analytics Student
+        ↓
+   Learn the Theory
+        ↓
+   Build Projects
+        ↓
+   Experiment with AI
+        ↓
+   Solve Real Problems
+        ↓
+   Keep Learning 🚀
+```
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:jadhavpurva921@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/purvajadhav">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/pjs-ops">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ✨ Thanks for stopping by!
+
+**Building with AI • Learning continuously • Creating with purpose**
+
+</p>
