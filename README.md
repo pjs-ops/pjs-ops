@@ -4,7 +4,7 @@
 
 Building intelligent applications at the intersection of **Artificial Intelligence, Data, and Software Engineering.**
 
-[Portfolio](https://purvajadhav.vercel.app/) • [LinkedIn](www.linkedin.com/in/purva-jadhav-350336307) • [Email](mailto:jadhavpurva921@gmail.com)
+[Portfolio](https://purvajadhav.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/purva-jadhav-350336307/) • [Email](mailto:jadhavpurva921@gmail.com)
 
 ---
 
